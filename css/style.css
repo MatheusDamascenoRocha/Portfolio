@@ -1,0 +1,18 @@
+*{
+    text-decoration: none;
+    padding: 0%;
+    margin: 0%;
+    border:none;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+.main{
+    background: linear-gradient(63.13deg, #022758 51.04%, #1a68ce 51.05%);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
