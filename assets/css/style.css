@@ -16,3 +16,12 @@ body{
     justify-content: space-around;
     align-items: center;
 }
+.titulo{
+    position: fixed;
+    color: #ffffff91;
+    font-size: 45px;
+}
+.meu-nome{
+    color: #63ace7;
+    font-size: 55px;
+}
